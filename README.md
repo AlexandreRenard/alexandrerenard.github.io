@@ -14,7 +14,7 @@ First person in the company to book meetings with Enterprise sized companies (Gi
 Trained the team in CRM use best practices, that are still used to this day
 
 ***At Sundial Foods:***
-100+ daily actions, 37 partners signed
+100+ daily actions, 36 partners signed
 Quota was selling our production inventory and every month 100% of it was sold.
 Focus on SMB in Bay Area, NYC and LA area
 Booked meetings with Chase Center, Bon Appetit Management Company
@@ -82,7 +82,19 @@ The customization points are multiple: current competitor used, size of company,
   
 ### Objection Handling Examples
 _____
+Many of those are sourced from Josh Braun's sales training.
 
+<ins>Can you send me an email?  </ins>
+My response: I'll do that right away. Would it be okay if I asked you a couple of quick questions so I don't need to spam you with emails?
+
+<ins>I'm not interested </ins>
+My response: I know you didn't ask me to call you. Before we hang up, if you don't mind me asking, is it because I called at the worst  time, or are you happy with what you have?
+
+<ins>I'm going into a meeting </ins>
+My response: Sorry for the bad timing! Can I tell you why I'm calling to see if it's even worth calling back?
+
+<ins>We are already under contract with X </ins>
+My response: Thanks for letting me know! They have a great product, how satisfied are you with them? If you have a minute, I can explain to you how we are different and what painpoints we can solve.
 
 ### 30-60-90 day Plan
 _____
