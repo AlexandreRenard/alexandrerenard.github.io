@@ -15,6 +15,7 @@ Trained the team in CRM use best practices, that are still used to this day
 
 ***At Sundial Foods:***
 100+ daily actions, 36 partners signed
+First sales person hired, set up all the processes and CRM
 Quota was selling our production inventory and every month 100% of it was sold.
 Focus on SMB in Bay Area, NYC and LA area
 Booked meetings with Chase Center, Bon Appetit Management Company
