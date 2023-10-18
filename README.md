@@ -63,13 +63,16 @@ This framework is from my time at Saltalk, when we sold no-contract based meal s
 
 ***Opener***
 Hey (name), Alex from Saltalk Here. We haven't talked before and I know you were not expecting my call, but I was hoping you could help me out.
+
 ***Context + question***
 My company does very easy to use meal delivery for your employees,do you currently provide lunch for your employees?
 If yes: Great! We helped other companies save around 20% on their current provider, and we don't require a contract
 If no: Ok ! How many people do you currently have in office?
+
 ***Pitch***
 We know providing lunch can be both time consuming and expensive, our solution does not require a contract and can help save you money and time compared to other solutions.
 I was calling to see if you would be open to learn more about a different approach for lunch catering.
+
 ***Close***
 Any interest in checking it out?
 
