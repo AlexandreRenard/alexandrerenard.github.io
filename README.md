@@ -2,7 +2,7 @@
 
 Hello, my name is Alexandre Renard and I am actively looking for any new sales role.
 
-## _Sales Book_
+# _Sales Book_
 
 ### Achievements
 _____
@@ -115,4 +115,32 @@ My response: Thanks for letting me know! They have a great product, how satisfie
 
 ### 30-60-90 day Plan
 _____
+**30 Day Plan**
 
+Be able to clearly articulate company value propositions and what problems they solve
+
+Use a lot of company resources to better understand the context, culture and unwritten rules
+
+Read all the case studies
+
+Research 3 competitors and identify ways company differentiates against them
+
+Write out my entire cold call guide
+
+Book a meeting within the first month
+
+**60 Day Plan**
+
+Complete a daily schedule with goals for each time block
+
+Hit ramp quota for month 2
+
+Be in the top 5 for most meetings booked of new hiring class
+
+**90 Day Plan**
+
+Complete a breakdown of the 'math' for how many calls to get a connection, how many connections to get a meeting, and so on.
+
+Lead company in call activity
+
+Develop a personal SDR playbook for how to be successful in the role
