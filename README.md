@@ -44,17 +44,20 @@ Summarized technical complex R&D documents for tax financing purposes
 
 Directly interacted with C-level executives
 
+
 ### Day in the Life Example (Full sales-cycle)
 _____
 ![Screenshot 2023-10-18 at 2 18 45 PM](https://github.com/AlexandreRenard/alexandrerenard.github.io/assets/126611069/421c600f-3714-4020-bf4d-7fb60fe96d60)
 
 Basic daily template, things will get shuffled around to make time for demos
 
+
 ### Tech Stack
 _____
 CRM: Hubspot, Salesforce
 Sales Tools: Seamless.ai, ZoomInfo, Lavender, SalesLoft, Linkedin Sales Navigator
 Other: Advanced Excel skills, powerpoint, word
+
 
 ### Cold Call Strategy
 _____
@@ -76,6 +79,7 @@ I was calling to see if you would be open to learn more about a different approa
 ***Close***
 Any interest in checking it out?
 
+
 ### Cold Email Strategy
 _____
 I always make it as customized as possible while using a basic framework.
@@ -96,6 +100,7 @@ The customization points are multiple: current competitor used, size of company,
 - Framing a problem
 - Solution to that problem
 - Interest based CTA
+
   
 ### Objection Handling Examples
 _____
@@ -112,6 +117,7 @@ My response: Sorry for the bad timing! Can I tell you why I'm calling to see if 
 
 <ins>We are already under contract with X </ins>
 My response: Thanks for letting me know! They have a great product, how satisfied are you with them? If you have a minute, I can explain to you how we are different and what painpoints we can solve.
+
 
 ### 30-60-90 day Plan
 _____
