@@ -133,7 +133,7 @@ Book a meeting within the first month
 
 Complete a daily schedule with goals for each time block
 
-Hit ramp quota for month 2
+Hit ramp quota for month 2 
 
 Be in the top 5 for most meetings booked of new hiring class
 
