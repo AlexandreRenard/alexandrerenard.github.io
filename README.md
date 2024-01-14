@@ -29,11 +29,7 @@ Focus on SMB in Bay Area, NYC and LA area
 Booked meetings with Chase Center, Bon Appetit Management Company
 
 ***At FinovUP:***
-100+ daily actions, 57 contracts signed, €8.6k ACV, increased revenue YoY by 21%
-
-Best performing sales person of the past 5 years for the company
-
-Set record of onboards with 57 companies
+100+ daily actions, 17 contracts signed, €8.6k ACV, increased revenue YoY by 21%
 
 Technical writing and summarizing documents for start-ups and scale ups in tech: IT, SaaS, Tech, AI
 
